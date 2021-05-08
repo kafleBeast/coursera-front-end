@@ -1,0 +1,44 @@
+ *{
+ 	box-sizing: border-box;
+
+ }
+
+h1{
+	font-size: 1.75em;
+	text-align: center;
+}
+
+body{
+	font-family: Courier, Helvetica, sans-serif;
+}
+div{
+	font-size:1.25em;
+	border:2px solid black;
+	width: 33.33%;
+	float: left;
+	
+	background-color: gray;
+}
+
+section{
+	text-align: center;
+	border:2px solid black;
+	width: 100px;
+	float: right;
+}
+#s1{
+	background-color: #E4A199;
+}
+
+#s2{
+	background-color: #B22222;
+	color: white;
+}
+
+#s3{
+	background-color: #FED037
+}
+
+p{
+	padding: 10px 10px 0px 10px;
+}
