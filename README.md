@@ -3,7 +3,7 @@ Repository for Coursera course on HTML, CSS, and Javascript
 
 This Repository contains the assignments for the Online course. 
 
-I completed the courses on May 29th, after 25 days.
+I completed the courses on May 29th.
 
 The certificate of completion is attached below:
 
